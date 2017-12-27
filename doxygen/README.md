@@ -26,7 +26,7 @@ Install doxygen on CentOS, Fedora or RHEL:
 ##Generate Documentation from Source code
 
 ```
-	$ doxygen -g file_doxygen.conf 
+	$ doxygen file_doxygen.conf 
 
 ```
 ## To browse the documentation
