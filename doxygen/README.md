@@ -36,10 +36,10 @@ Install doxygen on CentOS, Fedora or RHEL:
 	$ firefox index.html 
 
 ```
-## Running the tests
+## Compiling test file
 	gcc file.c
 
-# Authors
+# Author
 	Santhosh kumar A
 
 
